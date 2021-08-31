@@ -6,18 +6,18 @@
 
 На тестирование затрачено: 2 часа
 
-В результате тестирования выявлены следующие дефекты:
+### В результате тестирования выявлены следующие дефекты:
 * https://github.com/nikola4468/java-homeworks-1.1/issues/1
 * https://github.com/nikola4468/java-homeworks-1.1/issues/2
 * https://github.com/nikola4468/java-homeworks-1.1/issues/3
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты:
+### В процессе тестирования использовались следующие артефакты:
 * Список с номерами карт разных систем, взятый с [сайта](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 * Руководство из [домашнего задания](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
 
-В качестве тестовых данных использовались данные с [сайта](https://www.freeformatter.com/credit-card-number-generator-validator.html)
+###В качестве тестовых данных использовались данные с [сайта](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 * VISA:
 
 4532963447230242 ok
@@ -107,15 +107,12 @@
 
 6388326498018322 ok
 
-Тестирование производилось в следующем окружении:
+### Тестирование производилось в следующем окружении:
 * macOS 11.5.2 (20G95),
 * IntelliJ IDEA 2021.2.1 (Community Edition)
-  Build #IC-212.5080.55, built on August 24, 2021
-  Runtime version: 11.0.11+9-b1504.16 x86_64
-  VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
-  macOS 11.5.2
-  GC: G1 Young Generation, G1 Old Generation
-  Memory: 1024M
-  Cores: 4
-  Kotlin: 212-1.5.10-release-IJ5080.55
 
+  Build #IC-212.5080.55, built on August 24, 2021
+
+  Runtime version: 11.0.11+9-b1504.16 x86_64
+
+  VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
