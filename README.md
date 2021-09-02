@@ -7,9 +7,9 @@
 На тестирование затрачено: 2 часа
 
 ### В результате тестирования выявлены следующие дефекты:
-* https://github.com/nikola4468/java-homeworks-1.1/issues/1
-* https://github.com/nikola4468/java-homeworks-1.1/issues/2
-* https://github.com/nikola4468/java-homeworks-1.1/issues/3
+* [Не валидируется VISA с 19-ти значным номером карты](https://github.com/nikola4468/java-homeworks-1.1/issues/1)
+* [Не валидируется American Express с 15-ти значным номером карты](https://github.com/nikola4468/java-homeworks-1.1/issues/2)
+* [Не валидируется JCB с 19-ти значным номером карты](https://github.com/nikola4468/java-homeworks-1.1/issues/3)
 
 ## Описание процесса тестирования
 
